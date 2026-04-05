@@ -1,0 +1,77 @@
+{
+  "category": "Project Management",
+  "tools": [
+    {
+      "name": "Monday.com",
+      "slug": "monday",
+      "startingPrice": 9.00,
+      "renewalPrice": 9.00,
+      "bestFor": "Teams wanting visual, customizable project workflows",
+      "rating": 4.5,
+      "affiliateUrl": "https://monday.com/stackpick",
+      "commission": "Up to 100% first-year sales",
+      "features": ["Unlimited boards", "200+ templates", "Gantt charts", "Kanban views", "Automations", "Integrations (50+)", "Time tracking"],
+      "pros": ["Highly visual and customizable", "100% first-year affiliate commission", "Great template library", "Strong automation capabilities"],
+      "cons": ["3-seat minimum on all paid plans", "Can get expensive for large teams", "Feature overload for simple projects"]
+    },
+    {
+      "name": "Asana",
+      "slug": "asana",
+      "startingPrice": 10.99,
+      "renewalPrice": 10.99,
+      "bestFor": "Teams needing structured task and workflow management",
+      "rating": 4.4,
+      "affiliateUrl": "https://asana.com/stackpick",
+      "commission": "Not publicly available",
+      "features": ["Unlimited tasks and projects", "Timeline view", "Board view", "Custom fields", "Rules automation", "Goals tracking", "Portfolios"],
+      "pros": ["Clean, intuitive interface", "Powerful workflow rules engine", "Goal tracking built in", "Good free plan (up to 10 users)"],
+      "cons": ["No public affiliate program", "Limited customization vs Monday", "Time tracking requires integration"]
+    },
+    {
+      "name": "ClickUp",
+      "slug": "clickup",
+      "startingPrice": 7.00,
+      "renewalPrice": 7.00,
+      "bestFor": "Teams wanting the most features at the lowest price",
+      "rating": 4.3,
+      "affiliateUrl": "https://clickup.com/stackpick",
+      "commission": "$24-$25 per free signup",
+      "features": ["Unlimited tasks", "Docs", "Whiteboards", "Goals", "Time tracking", "Gantt charts", "Mind maps", "AI assistant"],
+      "pros": ["Pays $25 per FREE signup (no purchase needed)", "Most features of any PM tool", "Very competitive pricing", "Built-in docs and whiteboards"],
+      "cons": ["Can feel overwhelming (too many features)", "Mobile app less polished", "Occasional performance issues"]
+    },
+    {
+      "name": "Notion",
+      "slug": "notion",
+      "startingPrice": 10.00,
+      "renewalPrice": 10.00,
+      "bestFor": "Teams wanting a flexible workspace for docs + projects",
+      "rating": 4.5,
+      "affiliateUrl": "https://notion.so/stackpick",
+      "commission": "50% for first 12 months",
+      "features": ["Unlimited pages", "Databases", "Wikis", "Project tracking", "AI assistant", "Templates (10,000+)", "API access"],
+      "pros": ["Most flexible workspace tool", "Excellent for documentation + projects", "50% affiliate for 12 months", "Beautiful, minimal design"],
+      "cons": ["Not a traditional PM tool (requires setup)", "Can be slow with large databases", "Offline mode limited"]
+    },
+    {
+      "name": "Basecamp",
+      "slug": "basecamp",
+      "startingPrice": 15.00,
+      "renewalPrice": 15.00,
+      "bestFor": "Small teams wanting simple, opinionated project management",
+      "rating": 4.1,
+      "affiliateUrl": "https://basecamp.com/stackpick",
+      "commission": "$75 per referral",
+      "features": ["Message boards", "To-do lists", "Schedules", "Docs & files", "Group chat", "Hill charts", "Client access"],
+      "pros": ["Simple and opinionated (no feature bloat)", "Flat pricing (not per-user)", "Great for client collaboration", "No learning curve"],
+      "cons": ["No Gantt charts or timeline views", "Limited customization", "No time tracking built in"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["Monday.com", "Asana"], "slug": "monday-vs-asana"},
+    {"pair": ["ClickUp", "Monday.com"], "slug": "clickup-vs-monday"},
+    {"pair": ["Notion", "ClickUp"], "slug": "notion-vs-clickup"},
+    {"pair": ["Asana", "ClickUp"], "slug": "asana-vs-clickup"},
+    {"pair": ["Monday.com", "Basecamp"], "slug": "monday-vs-basecamp"}
+  ]
+}

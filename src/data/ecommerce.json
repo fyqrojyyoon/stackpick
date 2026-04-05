@@ -1,0 +1,77 @@
+{
+  "category": "E-Commerce Platform",
+  "tools": [
+    {
+      "name": "Shopify",
+      "slug": "shopify",
+      "startingPrice": 39.00,
+      "renewalPrice": 39.00,
+      "bestFor": "Entrepreneurs building online stores quickly",
+      "rating": 4.6,
+      "affiliateUrl": "https://shopify.pxf.io/stackpick",
+      "commission": "$100-$150 per referral",
+      "features": ["Unlimited products", "Online store + POS", "Built-in payment processing", "App marketplace (8,000+)", "Abandoned cart recovery", "Multi-channel selling"],
+      "pros": ["Easiest platform to get started", "Massive app ecosystem", "Excellent mobile experience", "Built-in payment processing (Shopify Payments)"],
+      "cons": ["Transaction fees if not using Shopify Payments", "Monthly cost adds up with apps", "Limited customization without coding"]
+    },
+    {
+      "name": "WooCommerce",
+      "slug": "woocommerce",
+      "startingPrice": 0,
+      "renewalPrice": 0,
+      "bestFor": "WordPress users wanting full control over their store",
+      "rating": 4.3,
+      "affiliateUrl": "https://woocommerce.com/stackpick",
+      "commission": "Via hosting affiliates ($65-$200)",
+      "features": ["Unlimited products (free plugin)", "Full WordPress integration", "Thousands of extensions", "Complete code access", "Any payment gateway", "SEO-friendly"],
+      "pros": ["Free and open source", "Unlimited customization", "No transaction fees", "Huge extension marketplace"],
+      "cons": ["Requires WordPress hosting ($3-30/mo)", "More technical to set up", "Security and updates are your responsibility"]
+    },
+    {
+      "name": "BigCommerce",
+      "slug": "bigcommerce",
+      "startingPrice": 29.00,
+      "renewalPrice": 29.00,
+      "bestFor": "Growing businesses needing built-in features without apps",
+      "rating": 4.4,
+      "affiliateUrl": "https://bigcommerce.pxf.io/stackpick",
+      "commission": "200% first month or $1,500/enterprise",
+      "features": ["Unlimited products", "No transaction fees", "Multi-channel selling", "Built-in B2B features", "Headless commerce ready", "Advanced SEO tools"],
+      "pros": ["No transaction fees on any plan", "More built-in features than Shopify", "Strong B2B capabilities", "200% first-month affiliate commission"],
+      "cons": ["Annual sales thresholds force plan upgrades", "Fewer themes than Shopify", "Steeper learning curve"]
+    },
+    {
+      "name": "Squarespace Commerce",
+      "slug": "squarespace",
+      "startingPrice": 33.00,
+      "renewalPrice": 33.00,
+      "bestFor": "Design-focused brands selling online",
+      "rating": 4.3,
+      "affiliateUrl": "https://squarespace.pxf.io/stackpick",
+      "commission": "$100-$200 per sale",
+      "features": ["Unlimited products", "Beautiful templates", "Built-in SEO tools", "Email marketing", "Inventory management", "Shipping label printing"],
+      "pros": ["Best-in-class design templates", "All-in-one website + store", "No transaction fees on Business+", "Built-in email marketing"],
+      "cons": ["Fewer integrations than Shopify", "Limited payment gateway options", "Not ideal for large catalogs"]
+    },
+    {
+      "name": "Wix eCommerce",
+      "slug": "wix-ecommerce",
+      "startingPrice": 17.00,
+      "renewalPrice": 17.00,
+      "bestFor": "Small businesses wanting easy drag-and-drop store building",
+      "rating": 4.2,
+      "affiliateUrl": "https://wix.pxf.io/stackpick",
+      "commission": "$100 per premium sale",
+      "features": ["Unlimited products", "Drag-and-drop builder", "AI website generator", "Built-in payments", "Multi-channel selling", "Abandoned cart recovery"],
+      "pros": ["Most intuitive drag-and-drop builder", "AI-powered site creation", "Affordable starting price", "No transaction fees"],
+      "cons": ["Cannot switch templates after publishing", "Less scalable for large stores", "SEO historically weaker than competitors"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["Shopify", "WooCommerce"], "slug": "shopify-vs-woocommerce"},
+    {"pair": ["Shopify", "BigCommerce"], "slug": "shopify-vs-bigcommerce"},
+    {"pair": ["Shopify", "Squarespace Commerce"], "slug": "shopify-vs-squarespace"},
+    {"pair": ["WooCommerce", "BigCommerce"], "slug": "woocommerce-vs-bigcommerce"},
+    {"pair": ["Wix eCommerce", "Shopify"], "slug": "wix-vs-shopify"}
+  ]
+}

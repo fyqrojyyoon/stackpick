@@ -1,0 +1,77 @@
+{
+  "category": "Online Course Platform",
+  "tools": [
+    {
+      "name": "Teachable",
+      "slug": "teachable",
+      "startingPrice": 39.00,
+      "renewalPrice": 39.00,
+      "bestFor": "Course creators wanting a simple platform to sell courses",
+      "rating": 4.4,
+      "affiliateUrl": "https://teachable.sjv.io/stackpick",
+      "commission": "30% lifetime recurring",
+      "features": ["Unlimited courses", "Unlimited students", "Course builder", "Quizzes", "Certificates", "Payment processing", "Affiliate marketing tools"],
+      "pros": ["Easy to use course builder", "30% lifetime recurring affiliate", "Built-in payment processing", "No transaction fees on paid plans"],
+      "cons": ["Limited site customization", "Basic community features", "Email marketing requires integration"]
+    },
+    {
+      "name": "Kajabi",
+      "slug": "kajabi",
+      "startingPrice": 69.00,
+      "renewalPrice": 69.00,
+      "bestFor": "Creators wanting an all-in-one business platform",
+      "rating": 4.5,
+      "affiliateUrl": "https://kajabi.com/stackpick",
+      "commission": "30% lifetime recurring",
+      "features": ["Courses", "Coaching", "Communities", "Email marketing", "Sales funnels", "Website builder", "Podcasting", "Mobile app"],
+      "pros": ["Most complete all-in-one creator platform", "Built-in email marketing and funnels", "Branded mobile app for students", "30% lifetime on $69-319/mo plans"],
+      "cons": ["Most expensive option", "Can be overwhelming for beginners", "Limited design customization"]
+    },
+    {
+      "name": "Thinkific",
+      "slug": "thinkific",
+      "startingPrice": 0,
+      "renewalPrice": 49.00,
+      "bestFor": "Educators wanting a free start with room to grow",
+      "rating": 4.4,
+      "affiliateUrl": "https://thinkific.com/stackpick",
+      "commission": "30% recurring",
+      "features": ["Unlimited students (free)", "Course builder", "Quizzes & surveys", "Certificates", "Community", "Website builder", "TCommerce payments"],
+      "pros": ["Generous free plan (1 course, unlimited students)", "Clean course-building experience", "Good community features", "No transaction fees"],
+      "cons": ["Marketing tools less robust than Kajabi", "Free plan limited to 1 course", "Advanced features only on higher tiers"]
+    },
+    {
+      "name": "Podia",
+      "slug": "podia",
+      "startingPrice": 0,
+      "renewalPrice": 39.00,
+      "bestFor": "Creators selling courses, downloads, and memberships",
+      "rating": 4.3,
+      "affiliateUrl": "https://podia.com/stackpick",
+      "commission": "30% recurring for 12 months",
+      "features": ["Courses", "Digital downloads", "Memberships", "Email marketing", "Website builder", "Community", "Affiliate marketing"],
+      "pros": ["Free plan available", "Sell courses + downloads + memberships", "Built-in email marketing", "Clean, simple interface"],
+      "cons": ["Less advanced course features", "Limited customization", "8% transaction fee on free plan"]
+    },
+    {
+      "name": "LearnWorlds",
+      "slug": "learnworlds",
+      "startingPrice": 24.00,
+      "renewalPrice": 24.00,
+      "bestFor": "Educators wanting interactive and engaging course experiences",
+      "rating": 4.4,
+      "affiliateUrl": "https://learnworlds.com/stackpick",
+      "commission": "30% recurring",
+      "features": ["Interactive video", "SCORM support", "Course builder", "Certificates", "Built-in community", "Website builder", "Mobile app builder"],
+      "pros": ["Best interactive learning features", "SCORM compliance for corporate training", "120-day affiliate cookie", "Affordable starting price"],
+      "cons": ["$5/course sale fee on Starter plan", "Smaller user community", "Some features have learning curve"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["Teachable", "Thinkific"], "slug": "teachable-vs-thinkific"},
+    {"pair": ["Kajabi", "Teachable"], "slug": "kajabi-vs-teachable"},
+    {"pair": ["Thinkific", "Kajabi"], "slug": "thinkific-vs-kajabi"},
+    {"pair": ["Podia", "Teachable"], "slug": "podia-vs-teachable"},
+    {"pair": ["LearnWorlds", "Teachable"], "slug": "learnworlds-vs-teachable"}
+  ]
+}

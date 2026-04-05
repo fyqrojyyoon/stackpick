@@ -1,0 +1,77 @@
+{
+  "category": "Marketing Automation",
+  "tools": [
+    {
+      "name": "HubSpot Marketing",
+      "slug": "hubspot-marketing",
+      "startingPrice": 20.00,
+      "renewalPrice": 20.00,
+      "bestFor": "Growing businesses wanting an all-in-one marketing platform",
+      "rating": 4.5,
+      "affiliateUrl": "https://hubspot.sjv.io/stackpick-marketing",
+      "commission": "30% recurring",
+      "features": ["Email marketing", "Landing pages", "Forms & CTAs", "Blog hosting", "Social media management", "Basic automation"],
+      "pros": ["Seamless CRM integration", "Excellent free tools to start", "Massive integration marketplace", "Best-in-class reporting"],
+      "cons": ["Professional tier is expensive ($890/mo)", "Steep learning curve for advanced features", "Contact-based pricing adds up fast"]
+    },
+    {
+      "name": "ActiveCampaign",
+      "slug": "activecampaign",
+      "startingPrice": 15.00,
+      "renewalPrice": 15.00,
+      "bestFor": "Businesses needing advanced automation at a reasonable price",
+      "rating": 4.6,
+      "affiliateUrl": "https://www.activecampaign.com/stackpick",
+      "commission": "30% recurring (12 months)",
+      "features": ["Email marketing", "Marketing automation", "CRM with sales automation", "Site tracking", "Conditional content", "Predictive sending"],
+      "pros": ["Most powerful automation builder in the category", "CRM included at no extra cost", "Excellent email deliverability", "Advanced segmentation"],
+      "cons": ["No free plan", "Can be complex for beginners", "Gets expensive with large contact lists"]
+    },
+    {
+      "name": "Systeme.io",
+      "slug": "systeme-io",
+      "startingPrice": 0,
+      "renewalPrice": 27.00,
+      "bestFor": "Solopreneurs and small business owners wanting everything in one tool",
+      "rating": 4.4,
+      "affiliateUrl": "https://systeme.io/stackpick",
+      "commission": "60% lifetime recurring",
+      "features": ["Email marketing", "Sales funnels", "Online courses", "Website builder", "Automation workflows", "Affiliate program management"],
+      "pros": ["60% lifetime affiliate commission (highest in SaaS)", "Generous free plan (2,000 contacts)", "All-in-one: funnels + courses + email", "No credit card required"],
+      "cons": ["Less polished UI than competitors", "Limited integrations", "Smaller community and resources"]
+    },
+    {
+      "name": "GetResponse",
+      "slug": "getresponse",
+      "startingPrice": 19.00,
+      "renewalPrice": 19.00,
+      "bestFor": "Marketers who need email + webinars + automation combined",
+      "rating": 4.3,
+      "affiliateUrl": "https://www.getresponse.com/stackpick",
+      "commission": "33% lifetime recurring",
+      "features": ["Email marketing", "Marketing automation", "Webinar hosting", "Landing pages", "Website builder", "AI email generator"],
+      "pros": ["Built-in webinar hosting (unique)", "Strong automation at all tiers", "AI-powered email creation", "Good value for feature set"],
+      "cons": ["Webinar limited to 100 attendees on basic", "Interface can feel cluttered", "Template designs could be fresher"]
+    },
+    {
+      "name": "Keap",
+      "slug": "keap",
+      "startingPrice": 249.00,
+      "renewalPrice": 249.00,
+      "bestFor": "Small businesses wanting CRM + marketing automation in one",
+      "rating": 4.1,
+      "affiliateUrl": "https://keap.com/stackpick",
+      "commission": "$250 per referral",
+      "features": ["CRM", "Email & SMS marketing", "Sales pipeline", "Automation builder", "Invoicing & payments", "Appointment scheduling"],
+      "pros": ["Deep CRM + automation integration", "Built-in invoicing and payments", "Excellent for service businesses", "$250 flat referral commission"],
+      "cons": ["Very expensive starting price ($249/mo)", "Steep learning curve", "Overkill for simple email needs"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["HubSpot Marketing", "ActiveCampaign"], "slug": "hubspot-vs-activecampaign"},
+    {"pair": ["ActiveCampaign", "GetResponse"], "slug": "activecampaign-vs-getresponse-marketing"},
+    {"pair": ["Systeme.io", "GetResponse"], "slug": "systeme-io-vs-getresponse"},
+    {"pair": ["ActiveCampaign", "Keap"], "slug": "activecampaign-vs-keap"},
+    {"pair": ["HubSpot Marketing", "Keap"], "slug": "hubspot-vs-keap"}
+  ]
+}

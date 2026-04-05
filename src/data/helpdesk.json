@@ -1,0 +1,77 @@
+{
+  "category": "Helpdesk & Live Chat",
+  "tools": [
+    {
+      "name": "LiveChat",
+      "slug": "livechat",
+      "startingPrice": 24.00,
+      "renewalPrice": 24.00,
+      "bestFor": "E-commerce and SaaS businesses needing real-time chat support",
+      "rating": 4.6,
+      "affiliateUrl": "https://partners.livechat.com/stackpick",
+      "commission": "20-22% lifetime recurring",
+      "features": ["Live chat widget", "Ticketing system", "Chat routing", "Canned responses", "Chat ratings", "200+ integrations", "Reports & analytics"],
+      "pros": ["20% lifetime recurring affiliate", "Excellent chat experience for customers", "Rich integration ecosystem", "120-day cookie duration"],
+      "cons": ["Chat-only focus (no full helpdesk)", "Gets expensive per agent", "Advanced features on higher tiers only"]
+    },
+    {
+      "name": "Zendesk",
+      "slug": "zendesk",
+      "startingPrice": 19.00,
+      "renewalPrice": 19.00,
+      "bestFor": "Mid-size companies needing enterprise-grade support platform",
+      "rating": 4.3,
+      "affiliateUrl": "https://zendesk.com/stackpick",
+      "commission": "~20% per sale",
+      "features": ["Ticketing", "Live chat", "AI bots", "Knowledge base", "Multi-channel support", "Advanced reporting", "Marketplace (1,500+ apps)"],
+      "pros": ["Most comprehensive support platform", "AI-powered automation", "Massive app marketplace", "Scales to enterprise"],
+      "cons": ["Complex setup and administration", "Expensive at higher tiers", "Steep learning curve"]
+    },
+    {
+      "name": "Freshdesk",
+      "slug": "freshdesk",
+      "startingPrice": 0,
+      "renewalPrice": 15.00,
+      "bestFor": "Small businesses wanting affordable helpdesk with free plan",
+      "rating": 4.4,
+      "affiliateUrl": "https://freshworks.com/stackpick",
+      "commission": "Up to $500 per referral",
+      "features": ["Ticketing (free plan)", "Live chat", "AI chatbot", "Knowledge base", "Automation", "Multi-channel", "Team collaboration"],
+      "pros": ["Generous free plan (up to 2 agents)", "Affordable paid plans", "Good automation capabilities", "Modern, intuitive interface"],
+      "cons": ["Advanced features locked to higher tiers", "Fewer integrations than Zendesk", "Chat is a separate product (Freshchat)"]
+    },
+    {
+      "name": "Tidio",
+      "slug": "tidio",
+      "startingPrice": 0,
+      "renewalPrice": 29.00,
+      "bestFor": "Small businesses wanting AI chatbot + live chat combined",
+      "rating": 4.4,
+      "affiliateUrl": "https://tidio.com/stackpick",
+      "commission": "Up to 30% recurring",
+      "features": ["Live chat", "AI chatbot (Lyro)", "Ticketing", "Email marketing", "Visitor tracking", "Chatbot builder", "Shopify/WordPress integrations"],
+      "pros": ["Free plan with 50 live chat conversations", "AI chatbot handles common questions", "Easy to install (Shopify, WordPress, Wix)", "Visual chatbot builder"],
+      "cons": ["AI chatbot (Lyro) costs extra", "Limited to 50 conversations on free plan", "Can get expensive with add-ons"]
+    },
+    {
+      "name": "Intercom",
+      "slug": "intercom",
+      "startingPrice": 39.00,
+      "renewalPrice": 39.00,
+      "bestFor": "SaaS companies wanting product-led customer communication",
+      "rating": 4.5,
+      "affiliateUrl": "https://intercom.com/stackpick",
+      "commission": "15-20%",
+      "features": ["Messenger", "AI chatbot (Fin)", "Help center", "Product tours", "Outbound messaging", "Reporting", "Custom bots"],
+      "pros": ["Best in-app messaging experience", "Powerful AI chatbot (Fin)", "Product tours and onboarding", "Great for SaaS companies"],
+      "cons": ["Expensive (especially with add-ons)", "Complex pricing model", "Overkill for simple support needs"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["Zendesk", "Freshdesk"], "slug": "zendesk-vs-freshdesk"},
+    {"pair": ["LiveChat", "Tidio"], "slug": "livechat-vs-tidio"},
+    {"pair": ["Zendesk", "Intercom"], "slug": "zendesk-vs-intercom"},
+    {"pair": ["Freshdesk", "Tidio"], "slug": "freshdesk-vs-tidio"},
+    {"pair": ["LiveChat", "Intercom"], "slug": "livechat-vs-intercom"}
+  ]
+}

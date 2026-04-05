@@ -1,0 +1,77 @@
+{
+  "category": "VPN Service",
+  "tools": [
+    {
+      "name": "NordVPN",
+      "slug": "nordvpn",
+      "startingPrice": 3.59,
+      "renewalPrice": 12.99,
+      "bestFor": "All-around best VPN for security and streaming",
+      "rating": 4.7,
+      "affiliateUrl": "https://nordvpn.sjv.io/stackpick",
+      "commission": "40-100% new sale + 30% renewal",
+      "features": ["6,400+ servers in 111 countries", "Double VPN", "Threat Protection", "Meshnet", "6 simultaneous connections", "No-logs policy (audited)"],
+      "pros": ["Fastest speeds in independent tests", "Up to 100% commission on new sales", "Advanced security features (Threat Protection)", "Audited no-logs policy"],
+      "cons": ["2-year plan required for best price", "Expensive monthly plan ($12.99)", "Occasional connection drops on some servers"]
+    },
+    {
+      "name": "Surfshark",
+      "slug": "surfshark",
+      "startingPrice": 1.99,
+      "renewalPrice": 15.45,
+      "bestFor": "Families and users needing unlimited device connections",
+      "rating": 4.5,
+      "affiliateUrl": "https://surfshark.pxf.io/stackpick",
+      "commission": "40% revenue share",
+      "features": ["3,200+ servers in 100 countries", "Unlimited simultaneous connections", "CleanWeb ad blocker", "MultiHop", "Camouflage mode", "No-logs policy"],
+      "pros": ["Unlimited simultaneous connections", "Cheapest long-term price", "CleanWeb blocks ads and malware", "Good streaming unblocking"],
+      "cons": ["Slower than NordVPN on some servers", "High renewal price ($15.45/mo)", "Newer company, less track record"]
+    },
+    {
+      "name": "ExpressVPN",
+      "slug": "expressvpn",
+      "startingPrice": 6.67,
+      "renewalPrice": 12.95,
+      "bestFor": "Users wanting premium reliability and ease of use",
+      "rating": 4.6,
+      "affiliateUrl": "https://expressvpn.com/stackpick",
+      "commission": "$13-$36 per sale (tiered)",
+      "features": ["3,000+ servers in 105 countries", "Lightway protocol", "TrustedServer (RAM-only)", "8 simultaneous connections", "Split tunneling", "Router app"],
+      "pros": ["Consistently fast and reliable", "Excellent app design on all platforms", "TrustedServer RAM-only technology", "Great for streaming"],
+      "cons": ["More expensive than competitors", "Fewer servers than NordVPN", "Lower affiliate commission"]
+    },
+    {
+      "name": "CyberGhost",
+      "slug": "cyberghost",
+      "startingPrice": 2.19,
+      "renewalPrice": 12.99,
+      "bestFor": "Beginners wanting dedicated streaming and torrenting servers",
+      "rating": 4.3,
+      "affiliateUrl": "https://cyberghostvpn.pxf.io/stackpick",
+      "commission": "40-100% new + 30% renewal",
+      "features": ["11,500+ servers in 100 countries", "Dedicated streaming servers", "Dedicated torrenting servers", "7 simultaneous connections", "No-logs policy", "45-day money-back"],
+      "pros": ["Largest server network (11,500+)", "Dedicated streaming/torrenting servers", "45-day money-back guarantee", "Very affordable 2-year plan"],
+      "cons": ["Slower speeds than top competitors", "Doesn't work in China", "Some privacy concerns (Kape Technologies ownership)"]
+    },
+    {
+      "name": "Private Internet Access",
+      "slug": "pia",
+      "startingPrice": 2.03,
+      "renewalPrice": 11.95,
+      "bestFor": "Privacy-focused users wanting open-source transparency",
+      "rating": 4.2,
+      "affiliateUrl": "https://privateinternetaccess.com/stackpick",
+      "commission": "33% commission",
+      "features": ["35,000+ servers in 91 countries", "Open-source apps", "WireGuard protocol", "Unlimited connections", "MACE ad blocker", "No-logs (court-proven)"],
+      "pros": ["Open-source apps for transparency", "Court-proven no-logs policy", "Unlimited simultaneous connections", "Largest server fleet (35,000+)"],
+      "cons": ["Interface less polished", "Slower speeds in some regions", "Kape Technologies ownership"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["NordVPN", "ExpressVPN"], "slug": "nordvpn-vs-expressvpn"},
+    {"pair": ["NordVPN", "Surfshark"], "slug": "nordvpn-vs-surfshark"},
+    {"pair": ["Surfshark", "ExpressVPN"], "slug": "surfshark-vs-expressvpn"},
+    {"pair": ["NordVPN", "CyberGhost"], "slug": "nordvpn-vs-cyberghost"},
+    {"pair": ["CyberGhost", "Private Internet Access"], "slug": "cyberghost-vs-pia"}
+  ]
+}
