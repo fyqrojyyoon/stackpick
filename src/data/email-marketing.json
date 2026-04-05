@@ -1,0 +1,90 @@
+{
+  "category": "Email Marketing",
+  "tools": [
+    {
+      "name": "Mailchimp",
+      "slug": "mailchimp",
+      "startingPrice": 13.00,
+      "renewalPrice": 13.00,
+      "bestFor": "Small businesses wanting an all-in-one marketing platform",
+      "rating": 4.2,
+      "affiliateUrl": "https://mailchimp.com/referral/stackpick",
+      "commission": "$30/new paying customer",
+      "features": ["500 contacts (free plan: 250)", "Email templates & drag-and-drop builder", "Basic automation", "Landing pages", "Social media posting", "Basic analytics"],
+      "pros": ["Most recognized email marketing brand", "Good all-in-one marketing features", "Generous integration ecosystem (300+)", "Easy drag-and-drop builder"],
+      "cons": ["Free plan limited to 250 contacts (reduced in 2026)", "Expensive as list grows", "Automation less powerful than dedicated tools"]
+    },
+    {
+      "name": "ConvertKit",
+      "slug": "convertkit",
+      "startingPrice": 29.00,
+      "renewalPrice": 29.00,
+      "bestFor": "Content creators and bloggers",
+      "rating": 4.5,
+      "affiliateUrl": "https://convertkit.com/stackpick",
+      "commission": "30% lifetime recurring",
+      "features": ["10,000 subscribers (free plan)", "Visual automation builder", "Landing pages & forms", "Creator-focused templates", "Commerce features (sell digital products)", "Tag-based subscriber management"],
+      "pros": ["Generous free plan (10K subscribers)", "Built for creators (sell products directly)", "Excellent visual automation builder", "Tag-based system is flexible and powerful"],
+      "cons": ["Limited email template designs", "Higher starting price than competitors", "Basic reporting compared to alternatives"]
+    },
+    {
+      "name": "GetResponse",
+      "slug": "getresponse",
+      "startingPrice": 19.00,
+      "renewalPrice": 19.00,
+      "bestFor": "Businesses needing email + webinars + automation",
+      "rating": 4.3,
+      "affiliateUrl": "https://www.getresponse.com/stackpick",
+      "commission": "33% lifetime recurring or $100 bounty",
+      "features": ["1,000 contacts", "Unlimited emails", "AI email generator", "Automation workflows", "Webinar hosting (unique)", "Landing pages", "Website builder"],
+      "pros": ["Built-in webinar hosting (unique feature)", "Strong automation at all tiers", "AI email generator", "Good value for feature set", "33% lifetime recurring affiliate"],
+      "cons": ["Learning curve for advanced features", "Webinar limited to 100 attendees on basic", "Template designs could be more modern"]
+    },
+    {
+      "name": "ActiveCampaign",
+      "slug": "activecampaign",
+      "startingPrice": 15.00,
+      "renewalPrice": 15.00,
+      "bestFor": "Advanced marketers needing powerful automation",
+      "rating": 4.6,
+      "affiliateUrl": "https://www.activecampaign.com/stackpick",
+      "commission": "30% recurring (up to 12 months)",
+      "features": ["1,000 contacts", "Marketing automation", "Site tracking", "Conditional content", "125+ email templates", "CRM with sales automation", "Predictive sending"],
+      "pros": ["Most powerful automation in the category", "CRM + sales automation included", "Excellent deliverability rates", "Advanced segmentation and personalization"],
+      "cons": ["No free plan (14-day trial only)", "Steeper learning curve", "Gets expensive with large lists"]
+    },
+    {
+      "name": "Moosend",
+      "slug": "moosend",
+      "startingPrice": 9.00,
+      "renewalPrice": 9.00,
+      "bestFor": "Budget-conscious businesses wanting automation",
+      "rating": 4.4,
+      "affiliateUrl": "https://moosend.com/stackpick",
+      "commission": "40% lifetime recurring",
+      "features": ["500 subscribers", "Unlimited emails", "Marketing automation", "Landing pages", "Transactional emails", "Real-time analytics"],
+      "pros": ["Most affordable option with automation", "40% lifetime recurring affiliate (highest)", "Unlimited emails on all plans", "Good automation for the price"],
+      "cons": ["Smaller template library", "Fewer integrations than major competitors", "Brand less established"]
+    },
+    {
+      "name": "MailerLite",
+      "slug": "mailerlite",
+      "startingPrice": 10.00,
+      "renewalPrice": 10.00,
+      "bestFor": "Small businesses and freelancers on a budget",
+      "rating": 4.5,
+      "affiliateUrl": "https://www.mailerlite.com/stackpick",
+      "commission": "30% recurring",
+      "features": ["500 subscribers (free: 1,000)", "12,000 emails/mo (free)", "Drag-and-drop editor", "Automation", "Landing pages", "Website builder", "Digital product selling"],
+      "pros": ["Excellent free plan (1,000 subscribers)", "Clean, intuitive interface", "Website builder included", "Sell digital products and subscriptions"],
+      "cons": ["Limited advanced automation", "Email templates require paid plan", "Approval process can be strict"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["Mailchimp", "ConvertKit"], "slug": "mailchimp-vs-convertkit"},
+    {"pair": ["Mailchimp", "MailerLite"], "slug": "mailchimp-vs-mailerlite"},
+    {"pair": ["ActiveCampaign", "GetResponse"], "slug": "activecampaign-vs-getresponse"},
+    {"pair": ["ConvertKit", "MailerLite"], "slug": "convertkit-vs-mailerlite"},
+    {"pair": ["Moosend", "Mailchimp"], "slug": "moosend-vs-mailchimp"}
+  ]
+}

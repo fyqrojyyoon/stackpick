@@ -1,0 +1,100 @@
+---
+const title = "StackPick — Find the Best Software for Your Business";
+const description = "Honest, data-driven SaaS comparisons to help you pick the right tools. Compare pricing, features, and performance across 10+ software categories.";
+const categories = [
+  { name: "Web Hosting", count: 6, slug: "/best-web-hosting", icon: "🖥" },
+  { name: "Email Marketing", count: 8, slug: "/best-email-marketing", icon: "📧" },
+  { name: "CRM Software", count: 8, slug: "/best-crm", icon: "📊" },
+  { name: "Project Management", count: 7, slug: "/best-project-management", icon: "📋" },
+  { name: "Website Builders", count: 5, slug: "/best-website-builders", icon: "🌐" },
+  { name: "E-Commerce", count: 5, slug: "/best-ecommerce-platforms", icon: "🛒" },
+];
+const popularComparisons = [
+  { title: "Bluehost vs SiteGround", slug: "/bluehost-vs-siteground", category: "Web Hosting" },
+  { title: "Mailchimp vs ConvertKit", slug: "/mailchimp-vs-convertkit", category: "Email Marketing" },
+  { title: "HubSpot vs Pipedrive", slug: "/hubspot-vs-pipedrive", category: "CRM" },
+  { title: "Monday vs Asana", slug: "/monday-vs-asana", category: "Project Management" },
+  { title: "Shopify vs WooCommerce", slug: "/shopify-vs-woocommerce", category: "E-Commerce" },
+  { title: "Wix vs Squarespace", slug: "/wix-vs-squarespace", category: "Website Builders" },
+];
+---
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href="https://stackpick.fyqro-jyyoon.workers.dev/" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "StackPick",
+    "url": "https://stackpick.fyqro-jyyoon.workers.dev",
+    "description": description
+  })} />
+
+  <style>
+    @import '../styles/global.css';
+    .hero-home { background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%); color: white; padding: 4rem 0; text-align: center; }
+    .hero-home h1 { color: white; font-size: 2.5rem; margin-bottom: .5rem; }
+    .hero-home p { color: rgba(255,255,255,0.85); font-size: 1.2rem; max-width: 600px; margin: 0 auto; }
+    .categories { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 2rem 0; }
+    .cat-card { border: 1px solid var(--gray-200); border-radius: var(--radius); padding: 1.25rem; text-decoration: none; color: inherit; transition: box-shadow .2s; }
+    .cat-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+    .cat-card .icon { font-size: 1.8rem; margin-bottom: .5rem; }
+    .cat-card h3 { font-size: 1.1rem; margin: 0 0 .25rem; }
+    .cat-card span { font-size: .85rem; color: var(--gray-600); }
+    .comparisons-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+    .comp-link { display: block; border: 1px solid var(--gray-200); border-radius: var(--radius); padding: 1rem 1.25rem; text-decoration: none; color: var(--gray-800); font-weight: 600; transition: border-color .2s; }
+    .comp-link:hover { border-color: var(--primary); }
+    .comp-link small { display: block; font-weight: 400; color: var(--gray-600); font-size: .8rem; margin-top: .25rem; }
+  </style>
+</head>
+<body>
+
+<div class="hero-home">
+  <div class="container">
+    <h1>Find the Best Software for Your Business</h1>
+    <p>Honest, data-driven comparisons. No fluff. Just the info you need to make the right choice.</p>
+  </div>
+</div>
+
+<div class="container">
+
+  <h2>Browse by Category</h2>
+  <div class="categories">
+    {categories.map(cat => (
+      <a href={cat.slug} class="cat-card">
+        <div class="icon">{cat.icon}</div>
+        <h3>{cat.name}</h3>
+        <span>{cat.count} tools compared</span>
+      </a>
+    ))}
+  </div>
+
+  <h2>Popular Comparisons</h2>
+  <div class="comparisons-grid">
+    {popularComparisons.map(comp => (
+      <a href={comp.slug} class="comp-link">
+        {comp.title}
+        <small>{comp.category}</small>
+      </a>
+    ))}
+  </div>
+
+  <div class="disclosure">
+    <strong>How we make money:</strong> StackPick earns commissions when you purchase through our affiliate links at no extra cost to you. This supports our research and allows us to keep all content free. Our recommendations are based on thorough testing — we never let affiliate relationships influence our editorial picks.
+  </div>
+
+  <footer>
+    <p>&copy; 2026 StackPick. All rights reserved.</p>
+  </footer>
+
+</div>
+
+</body>
+</html>

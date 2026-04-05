@@ -1,0 +1,149 @@
+{
+  "lastUpdated": "2026-04-04",
+  "programs": [
+    {
+      "tool": "Bluehost",
+      "network": "Impact",
+      "signupUrl": "https://www.bluehost.com/affiliates",
+      "commission": "$65-$130/sale",
+      "cookie": "30 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "High volume, easy approval. Apply first."
+    },
+    {
+      "tool": "SiteGround",
+      "network": "Direct",
+      "signupUrl": "https://www.siteground.com/affiliates",
+      "commission": "$50-$100/sale (tiered)",
+      "cookie": "60 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Requires website review. Apply after deployment."
+    },
+    {
+      "tool": "Hostinger",
+      "network": "Direct",
+      "signupUrl": "https://www.hostinger.com/affiliates",
+      "commission": "40%+ per sale",
+      "cookie": "30 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Fast approval typically."
+    },
+    {
+      "tool": "Cloudways",
+      "network": "Direct",
+      "signupUrl": "https://www.cloudways.com/en/web-hosting-affiliate-program.php",
+      "commission": "$30 + 7% lifetime",
+      "cookie": "90 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Hybrid model - best for recurring revenue."
+    },
+    {
+      "tool": "WP Engine",
+      "network": "ShareASale",
+      "signupUrl": "https://wpengine.com/affiliate-program/",
+      "commission": "$200+/sale or 100% first month",
+      "cookie": "180 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Highest per-sale payout. Priority application."
+    },
+    {
+      "tool": "Kinsta",
+      "network": "Direct",
+      "signupUrl": "https://kinsta.com/affiliates/",
+      "commission": "$50-$500 + 10% lifetime",
+      "cookie": "60 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Best passive income model (10% lifetime)."
+    },
+    {
+      "tool": "GetResponse",
+      "network": "Direct",
+      "signupUrl": "https://www.getresponse.com/affiliate-programs",
+      "commission": "33% lifetime recurring or $100 bounty",
+      "cookie": "120 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Choose recurring option for passive income."
+    },
+    {
+      "tool": "ActiveCampaign",
+      "network": "PartnerStack",
+      "signupUrl": "https://www.activecampaign.com/partners/affiliate",
+      "commission": "30% recurring (12 months)",
+      "cookie": "90 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Strong recurring on high-value product."
+    },
+    {
+      "tool": "Moosend",
+      "network": "Direct",
+      "signupUrl": "https://moosend.com/affiliate-program/",
+      "commission": "40% lifetime recurring",
+      "cookie": "90 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Highest recurring rate (40%). Easy approval."
+    },
+    {
+      "tool": "HubSpot",
+      "network": "Impact",
+      "signupUrl": "https://www.hubspot.com/partners/affiliates",
+      "commission": "30% recurring or 100% first month",
+      "cookie": "180 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Highest total value. Pro plan = $267/mo recurring."
+    },
+    {
+      "tool": "Pipedrive",
+      "network": "PartnerStack",
+      "signupUrl": "https://www.pipedrive.com/en/affiliates",
+      "commission": "33% recurring (12 months)",
+      "cookie": "90 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": ""
+    },
+    {
+      "tool": "Monday.com",
+      "network": "Impact",
+      "signupUrl": "https://monday.com/affiliate-program",
+      "commission": "Up to 100% first-year sales",
+      "cookie": "90 days",
+      "status": "pending",
+      "appliedDate": null,
+      "approvedDate": null,
+      "affiliateLink": null,
+      "notes": "Highest CPA potential in PM category."
+    }
+  ]
+}

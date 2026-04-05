@@ -1,0 +1,90 @@
+{
+  "category": "Web Hosting",
+  "tools": [
+    {
+      "name": "Bluehost",
+      "slug": "bluehost",
+      "startingPrice": 2.95,
+      "renewalPrice": 11.99,
+      "bestFor": "WordPress beginners",
+      "rating": 4.2,
+      "affiliateUrl": "https://www.bluehost.com/track/stackpick",
+      "commission": "$65-$130/sale",
+      "features": ["Free domain (1 year)", "Free SSL", "50GB SSD storage", "Unmetered bandwidth", "1-click WordPress install"],
+      "pros": ["Official WordPress.org recommended", "Very affordable first-term pricing", "24/7 customer support", "Free domain for first year"],
+      "cons": ["Renewal prices significantly higher", "Basic plan limited to 1 website", "No free site migration"]
+    },
+    {
+      "name": "Hostinger",
+      "slug": "hostinger",
+      "startingPrice": 2.99,
+      "renewalPrice": 7.99,
+      "bestFor": "Budget-conscious beginners",
+      "rating": 4.5,
+      "affiliateUrl": "https://www.hostinger.com/stackpick",
+      "commission": "40%+ per sale",
+      "features": ["100GB SSD storage", "Free SSL", "Free domain", "Managed WordPress", "Weekly backups"],
+      "pros": ["Excellent price-to-performance ratio", "Fast LiteSpeed servers", "AI website builder included", "Low renewal prices compared to competitors"],
+      "cons": ["No phone support", "Daily backups only on Business plan+", "Some features only on higher tiers"]
+    },
+    {
+      "name": "SiteGround",
+      "slug": "siteground",
+      "startingPrice": 2.99,
+      "renewalPrice": 17.99,
+      "bestFor": "Speed and security focused users",
+      "rating": 4.6,
+      "affiliateUrl": "https://www.siteground.com/go/stackpick",
+      "commission": "$50-$100/sale",
+      "features": ["10GB SSD storage", "Free SSL", "Daily backups", "Free CDN", "Free email", "Managed WordPress"],
+      "pros": ["Excellent uptime and speed (Google Cloud infrastructure)", "Outstanding customer support", "Free site migration", "Advanced caching (SuperCacher)"],
+      "cons": ["Steep renewal price increase", "Storage is limited on lower tiers", "No free domain included"]
+    },
+    {
+      "name": "Cloudways",
+      "slug": "cloudways",
+      "startingPrice": 14.00,
+      "renewalPrice": 14.00,
+      "bestFor": "Developers and growing businesses",
+      "rating": 4.7,
+      "affiliateUrl": "https://www.cloudways.com/en/?id=stackpick",
+      "commission": "$30 + 7% lifetime recurring",
+      "features": ["Cloud infrastructure (AWS, GCP, DO, Vultr)", "Free SSL", "Free migration", "Staging environments", "Server cloning", "24/7 support"],
+      "pros": ["Choice of 5 cloud providers", "Pay-as-you-go pricing (no lock-in)", "Excellent performance", "Built-in staging and Git integration"],
+      "cons": ["No email hosting included", "No domain registration", "Higher entry price than shared hosting"]
+    },
+    {
+      "name": "WP Engine",
+      "slug": "wp-engine",
+      "startingPrice": 26.00,
+      "renewalPrice": 26.00,
+      "bestFor": "Premium WordPress sites",
+      "rating": 4.5,
+      "affiliateUrl": "https://wpengine.com/more/stackpick",
+      "commission": "$200+/sale or 100% first month",
+      "features": ["10GB storage", "50GB bandwidth/mo", "Free SSL", "Free CDN (Cloudflare)", "Automated migrations", "Daily backups", "Staging"],
+      "pros": ["Best-in-class managed WordPress hosting", "Excellent security and performance", "Free Genesis themes and StudioPress", "60-day money-back guarantee"],
+      "cons": ["Premium pricing", "WordPress only", "Limited to 1 site on Startup plan"]
+    },
+    {
+      "name": "Kinsta",
+      "slug": "kinsta",
+      "startingPrice": 35.00,
+      "renewalPrice": 35.00,
+      "bestFor": "High-traffic WordPress sites",
+      "rating": 4.8,
+      "affiliateUrl": "https://kinsta.com/stackpick",
+      "commission": "$50-$500 + 10% lifetime recurring",
+      "features": ["10GB SSD storage", "25K visits/mo", "Free SSL", "Free CDN", "Google Cloud Platform C2", "Daily backups", "Staging"],
+      "pros": ["Top-tier performance (Google Cloud C2 machines)", "Beautiful dashboard (MyKinsta)", "Free premium migrations", "10% lifetime recurring affiliate commission"],
+      "cons": ["Most expensive option", "WordPress only", "Email hosting not included"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["Bluehost", "SiteGround"], "slug": "bluehost-vs-siteground"},
+    {"pair": ["Bluehost", "Hostinger"], "slug": "bluehost-vs-hostinger"},
+    {"pair": ["SiteGround", "Hostinger"], "slug": "siteground-vs-hostinger"},
+    {"pair": ["WP Engine", "Kinsta"], "slug": "wp-engine-vs-kinsta"},
+    {"pair": ["Cloudways", "WP Engine"], "slug": "cloudways-vs-wp-engine"}
+  ]
+}

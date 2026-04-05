@@ -1,0 +1,90 @@
+{
+  "category": "CRM Software",
+  "tools": [
+    {
+      "name": "HubSpot CRM",
+      "slug": "hubspot",
+      "startingPrice": 0,
+      "renewalPrice": 20.00,
+      "bestFor": "Small-to-mid businesses wanting an all-in-one platform",
+      "rating": 4.5,
+      "affiliateUrl": "https://hubspot.sjv.io/stackpick",
+      "commission": "30% recurring or 100% first month",
+      "features": ["1,000,000 contacts (free)", "Deal pipeline", "Email tracking", "Meeting scheduling", "Live chat", "Basic reporting", "Gmail/Outlook integration"],
+      "pros": ["Industry-leading free plan (1M contacts)", "Seamless marketing + sales + service hub", "Extremely intuitive UI", "Massive app marketplace (1,500+ integrations)"],
+      "cons": ["Steep pricing jump to Professional ($90/user/mo)", "Advanced workflows locked behind paid tiers", "Per-seat minimums on higher plans"]
+    },
+    {
+      "name": "Pipedrive",
+      "slug": "pipedrive",
+      "startingPrice": 14.00,
+      "renewalPrice": 14.00,
+      "bestFor": "Sales-focused SMBs needing visual pipeline management",
+      "rating": 4.5,
+      "affiliateUrl": "https://pipedrive.pxf.io/stackpick",
+      "commission": "33% recurring for 12 months",
+      "features": ["3,000 open deals", "Visual pipeline (drag-and-drop)", "Email sync", "30 automation workflows", "15 reports", "Mobile app"],
+      "pros": ["Best-in-class visual pipeline management", "Very intuitive and fast to set up", "Strong automation even at mid-tier", "Great mobile app for field sales"],
+      "cons": ["No free plan", "Limited marketing features", "Reporting less powerful until Professional tier"]
+    },
+    {
+      "name": "Monday CRM",
+      "slug": "monday-crm",
+      "startingPrice": 12.00,
+      "renewalPrice": 12.00,
+      "bestFor": "Teams already using Monday.com for project management",
+      "rating": 4.3,
+      "affiliateUrl": "https://monday.com/stackpick",
+      "commission": "Up to 100% of first-year sales",
+      "features": ["Unlimited contacts", "Unlimited pipelines", "Email integration", "Activity management", "Automations (250/mo)", "Quotes/invoices"],
+      "pros": ["Highly visual and customizable", "Strong PM integration for post-sale workflows", "Generous automation limits on Pro", "Good team collaboration features"],
+      "cons": ["3-seat minimum increases entry cost", "CRM features less mature than dedicated tools", "Can feel overwhelming with customization options"]
+    },
+    {
+      "name": "Freshsales",
+      "slug": "freshsales",
+      "startingPrice": 0,
+      "renewalPrice": 9.00,
+      "bestFor": "Small businesses wanting built-in phone, email, and chat",
+      "rating": 4.4,
+      "affiliateUrl": "https://freshworks.com/stackpick",
+      "commission": "Up to $500 per qualified referral",
+      "features": ["Contact management", "Built-in phone/email/chat", "AI contact scoring (Freddy AI)", "Visual pipeline", "2,000 bot sessions/mo", "Mobile app"],
+      "pros": ["Built-in multichannel communication", "AI-powered lead scoring", "Clean, modern interface", "Competitive pricing with free plan"],
+      "cons": ["Smaller integration ecosystem", "Advanced reporting only in Pro+", "Less brand recognition"]
+    },
+    {
+      "name": "Zoho CRM",
+      "slug": "zoho-crm",
+      "startingPrice": 0,
+      "renewalPrice": 14.00,
+      "bestFor": "Budget-conscious SMBs wanting feature-rich CRM",
+      "rating": 4.3,
+      "affiliateUrl": "https://www.zoho.com/crm/stackpick",
+      "commission": "15% recurring",
+      "features": ["5,000 records (free)", "Multiple pipelines", "Scoring rules", "Workflows", "Mass email", "Custom dashboards", "Zia AI assistant"],
+      "pros": ["Excellent value at every tier", "Deep integration with 45+ Zoho apps", "Zia AI for predictions and suggestions", "Highly customizable (Canvas design studio)"],
+      "cons": ["UI can feel dated", "Steep learning curve", "Customer support inconsistent on lower tiers"]
+    },
+    {
+      "name": "Close",
+      "slug": "close",
+      "startingPrice": 29.00,
+      "renewalPrice": 29.00,
+      "bestFor": "Inside sales teams relying on phone and email outreach",
+      "rating": 4.6,
+      "affiliateUrl": "https://close.com/stackpick",
+      "commission": "10% lifetime recurring",
+      "features": ["Pipeline view", "Built-in calling (power dialer)", "SMS", "Email sequences", "Task management", "Zapier integration"],
+      "pros": ["Best-in-class built-in calling", "Designed for outbound/inside sales", "Email sequences and SMS built in", "Very fast to set up"],
+      "cons": ["Significantly more expensive at higher tiers", "No free plan", "Smaller integration ecosystem"]
+    }
+  ],
+  "comparisons": [
+    {"pair": ["HubSpot CRM", "Pipedrive"], "slug": "hubspot-vs-pipedrive"},
+    {"pair": ["HubSpot CRM", "Zoho CRM"], "slug": "hubspot-vs-zoho-crm"},
+    {"pair": ["Pipedrive", "Monday CRM"], "slug": "pipedrive-vs-monday-crm"},
+    {"pair": ["Freshsales", "Pipedrive"], "slug": "freshsales-vs-pipedrive"},
+    {"pair": ["HubSpot CRM", "Freshsales"], "slug": "hubspot-vs-freshsales"}
+  ]
+}

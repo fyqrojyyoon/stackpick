@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stackpick.fyqro-jyyoon.workers.dev/sitemap-index.xml
