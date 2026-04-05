@@ -4,54 +4,118 @@
     {
       "name": "Wix",
       "slug": "wix",
-      "startingPrice": 17.00,
-      "renewalPrice": 17.00,
+      "startingPrice": 17,
+      "renewalPrice": 17,
       "bestFor": "Beginners wanting the easiest drag-and-drop builder",
       "rating": 4.4,
       "affiliateUrl": "https://wix.pxf.io/stackpick",
       "commission": "$100 per premium sale",
-      "features": ["900+ templates", "AI website generator (ADI)", "Drag-and-drop editor", "App market (500+)", "Built-in SEO tools", "Free plan available"],
-      "pros": ["Most intuitive drag-and-drop editor", "AI can build your site in minutes", "Huge template library", "$100 per sale affiliate commission"],
-      "cons": ["Cannot switch templates after publishing", "Ads on free plan", "Less SEO-friendly historically"]
+      "features": [
+        "900+ templates",
+        "AI website generator (ADI)",
+        "Drag-and-drop editor",
+        "App market (500+)",
+        "Built-in SEO tools",
+        "Free plan available"
+      ],
+      "pros": [
+        "Most intuitive drag-and-drop editor",
+        "AI can build your site in minutes",
+        "Huge template library",
+        "$100 per sale affiliate commission"
+      ],
+      "cons": [
+        "Cannot switch templates after publishing",
+        "Ads on free plan",
+        "Less SEO-friendly historically"
+      ]
     },
     {
       "name": "Squarespace",
       "slug": "squarespace-builder",
-      "startingPrice": 16.00,
-      "renewalPrice": 16.00,
+      "startingPrice": 16,
+      "renewalPrice": 16,
       "bestFor": "Creatives and brands wanting stunning design",
       "rating": 4.5,
       "affiliateUrl": "https://squarespace.pxf.io/stackpick",
       "commission": "$100-$200 per sale",
-      "features": ["150+ designer templates", "Built-in e-commerce", "Email marketing", "SEO tools", "Analytics", "Member areas"],
-      "pros": ["Best-looking templates in the industry", "All-in-one: website + store + email", "No transaction fees on Business+", "Strong built-in analytics"],
-      "cons": ["Less flexible than Wix for layout changes", "Fewer third-party integrations", "Steeper learning curve than Wix"]
+      "features": [
+        "150+ designer templates",
+        "Built-in e-commerce",
+        "Email marketing",
+        "SEO tools",
+        "Analytics",
+        "Member areas"
+      ],
+      "pros": [
+        "Best-looking templates in the industry",
+        "All-in-one: website + store + email",
+        "No transaction fees on Business+",
+        "Strong built-in analytics"
+      ],
+      "cons": [
+        "Less flexible than Wix for layout changes",
+        "Fewer third-party integrations",
+        "Steeper learning curve than Wix"
+      ]
     },
     {
       "name": "Webflow",
       "slug": "webflow",
-      "startingPrice": 18.00,
-      "renewalPrice": 18.00,
+      "startingPrice": 18,
+      "renewalPrice": 18,
       "bestFor": "Designers wanting code-level control without coding",
       "rating": 4.6,
       "affiliateUrl": "https://webflow.grsm.io/stackpick",
       "commission": "50% recurring for 12 months",
-      "features": ["Visual CSS editor", "CMS collections", "Interactions & animations", "E-commerce", "Hosting included", "Code export"],
-      "pros": ["Most powerful visual builder (code-level control)", "50% recurring affiliate for 12 months", "Professional-grade animations", "Can export clean code"],
-      "cons": ["Steep learning curve", "More expensive for e-commerce", "Smaller template marketplace"]
+      "features": [
+        "Visual CSS editor",
+        "CMS collections",
+        "Interactions & animations",
+        "E-commerce",
+        "Hosting included",
+        "Code export"
+      ],
+      "pros": [
+        "Most powerful visual builder (code-level control)",
+        "50% recurring affiliate for 12 months",
+        "Professional-grade animations",
+        "Can export clean code"
+      ],
+      "cons": [
+        "Steep learning curve",
+        "More expensive for e-commerce",
+        "Smaller template marketplace"
+      ]
     },
     {
       "name": "WordPress.com",
       "slug": "wordpress-com",
-      "startingPrice": 4.00,
-      "renewalPrice": 4.00,
+      "startingPrice": 4,
+      "renewalPrice": 4,
       "bestFor": "Bloggers and content-heavy websites",
       "rating": 4.2,
       "affiliateUrl": "https://wordpress.com/stackpick",
       "commission": "20% commission (lifetime cookie)",
-      "features": ["Thousands of themes", "Built-in blogging", "Plugin support (Business+)", "SEO tools", "Free plan available", "Custom domain support"],
-      "pros": ["Most affordable starting price ($4/mo)", "Lifetime affiliate cookie", "Massive theme/plugin ecosystem", "Best for blogging and content"],
-      "cons": ["Plugins only on Business plan ($25/mo)+", "Ads on free and Personal plans", "Confusing .com vs .org distinction"]
+      "features": [
+        "Thousands of themes",
+        "Built-in blogging",
+        "Plugin support (Business+)",
+        "SEO tools",
+        "Free plan available",
+        "Custom domain support"
+      ],
+      "pros": [
+        "Most affordable starting price ($4/mo)",
+        "Lifetime affiliate cookie",
+        "Massive theme/plugin ecosystem",
+        "Best for blogging and content"
+      ],
+      "cons": [
+        "Plugins only on Business plan ($25/mo)+",
+        "Ads on free and Personal plans",
+        "Confusing .com vs .org distinction"
+      ]
     },
     {
       "name": "Hostinger Website Builder",
@@ -60,18 +124,64 @@
       "renewalPrice": 7.99,
       "bestFor": "Budget builders wanting AI-powered site creation",
       "rating": 4.3,
-      "affiliateUrl": "https://www.hostinger.com/stackpick",
+      "affiliateUrl": "https://www.hostinger.com?REFERRALCODE=XOSFYQROJZTA",
       "commission": "40%+ per sale",
-      "features": ["AI website generator", "150+ templates", "Drag-and-drop editor", "Built-in SEO", "E-commerce features", "Free domain included"],
-      "pros": ["Cheapest option with hosting included", "AI generates full site in minutes", "Free domain for first year", "Good performance (LiteSpeed)"],
-      "cons": ["Fewer templates than Wix", "Limited third-party integrations", "Renewal price increases"]
+      "features": [
+        "AI website generator",
+        "150+ templates",
+        "Drag-and-drop editor",
+        "Built-in SEO",
+        "E-commerce features",
+        "Free domain included"
+      ],
+      "pros": [
+        "Cheapest option with hosting included",
+        "AI generates full site in minutes",
+        "Free domain for first year",
+        "Good performance (LiteSpeed)"
+      ],
+      "cons": [
+        "Fewer templates than Wix",
+        "Limited third-party integrations",
+        "Renewal price increases"
+      ]
     }
   ],
   "comparisons": [
-    {"pair": ["Wix", "Squarespace"], "slug": "wix-vs-squarespace"},
-    {"pair": ["Wix", "WordPress.com"], "slug": "wix-vs-wordpress"},
-    {"pair": ["Squarespace", "Webflow"], "slug": "squarespace-vs-webflow"},
-    {"pair": ["Webflow", "WordPress.com"], "slug": "webflow-vs-wordpress"},
-    {"pair": ["Wix", "Hostinger Website Builder"], "slug": "wix-vs-hostinger-builder"}
+    {
+      "pair": [
+        "Wix",
+        "Squarespace"
+      ],
+      "slug": "wix-vs-squarespace"
+    },
+    {
+      "pair": [
+        "Wix",
+        "WordPress.com"
+      ],
+      "slug": "wix-vs-wordpress"
+    },
+    {
+      "pair": [
+        "Squarespace",
+        "Webflow"
+      ],
+      "slug": "squarespace-vs-webflow"
+    },
+    {
+      "pair": [
+        "Webflow",
+        "WordPress.com"
+      ],
+      "slug": "webflow-vs-wordpress"
+    },
+    {
+      "pair": [
+        "Wix",
+        "Hostinger Website Builder"
+      ],
+      "slug": "wix-vs-hostinger-builder"
+    }
   ]
 }
