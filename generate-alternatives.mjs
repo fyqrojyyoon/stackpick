@@ -29,7 +29,7 @@ function generatePage(mainTool, alternatives) {
   const slug = `${slugify(mainTool.name)}-alternatives`;
   const title = `Top ${alternatives.length} ${mainTool.name} Alternatives in 2026`;
   const desc = `Looking for ${mainTool.name} alternatives? We compared ${alternatives.length} similar ${category.toLowerCase()} tools by features, pricing, and value.`;
-  const url = `https://stackpick.fyqro-jyyoon.workers.dev/${slug}`;
+  const url = `https://stackpick-89q.pages.dev/${slug}`;
 
   const altCards = alternatives.map((t, i) => `
   <div class="tool-card" id="${t.slug}">
